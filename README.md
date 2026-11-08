@@ -40,6 +40,12 @@
  ┣ 📜 dashboard.html   # Halaman Dashboard Pengguna
  ┣ 📜 stok.html        # Halaman Katalog & Stok Buku
  ┣ 📜 checkout.html    # Halaman Formulir Pemesanan
+ ┗ 📜 tracking.html    # Halaman Lacak Pengiriman Paket
+
+
+
+
+
 
 <img width="1583" height="771" alt="hasil 2" src="https://github.com/user-attachments/assets/30308385-332e-412c-b08e-6a60412fcace" />
 <img width="1600" height="775" alt="hasil 1" src="https://github.com/user-attachments/assets/84276a63-c55d-4cdd-8aab-153038aa8cf9" />
@@ -55,8 +61,3 @@
 <img width="1591" height="777" alt="hasil 3" src="https://github.com/user-attachments/assets/1df3a0d3-ab01-4d0f-83b8-f493deeb63ec" />
 
 https://youtu.be/VUOIoynRvPA
-
-
-
- 
- ┗ 📜 tracking.html    # Halaman Lacak Pengiriman Paket
