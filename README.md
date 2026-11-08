@@ -54,6 +54,8 @@
 <img width="1600" height="773" alt="hasil 4" src="https://github.com/user-attachments/assets/6e8c4985-224e-493a-8b30-be9c3f1ab716" />
 <img width="1591" height="777" alt="hasil 3" src="https://github.com/user-attachments/assets/1df3a0d3-ab01-4d0f-83b8-f493deeb63ec" />
 
+https://youtu.be/VUOIoynRvPA
+
 
 
  
